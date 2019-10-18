@@ -1,8 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+title: UT Dallas Rugby
+featuredImage: >-
+  https://ucarecdn.com/1605184e-dc7b-4423-af92-200b93797d31/-/crop/4467x2459/0,0/-/preview/
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
