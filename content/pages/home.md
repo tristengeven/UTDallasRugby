@@ -2,8 +2,13 @@
 template: HomePage
 slug: ''
 title: UT Dallas Rugby
+<<<<<<< HEAD
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: '  '
+=======
+featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+subtitle: '  '
+>>>>>>> 421f0fc6ad82f71afd40bdbf5d4db211fe24f656
 meta:
   description: This is a meta description.
   title: UT Dallas Rugby
